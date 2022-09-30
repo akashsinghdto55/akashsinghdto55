@@ -1,7 +1,7 @@
 ![MasterHead](https://c.tenor.com/qKOGFbx1yyEAAAAC/never-stop.gif)]
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate backend developer from India ❤️</h3>
-<h3>Go with the Flow</h3>
+<h3 align="center">Go with the Flow</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/akashsinghdto55" target="blank"><img src="https://img.shields.io/twitter/follow/akashsinghdto55?logo=twitter&style=for-the-badge" alt="akashsinghdto55" /></a> </p>
